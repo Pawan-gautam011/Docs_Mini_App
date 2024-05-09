@@ -10,3 +10,8 @@ export default {
   plugins: [],
 }
 
+safelist: [
+  'bg-green-600',
+  'bg-red-600',
+  'bg-purple-600',
+]
